@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_Guerrero", "SSIS_Guerrero\SSIS_Guerrero.dtproj", "{582D5CBB-E7F6-4425-8E34-4BB330C94395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{582D5CBB-E7F6-4425-8E34-4BB330C94395}.Development|Default.ActiveCfg = Development
+		{582D5CBB-E7F6-4425-8E34-4BB330C94395}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4696C02D-7163-4491-8347-6336AA959C0A}
+	EndGlobalSection
+EndGlobal

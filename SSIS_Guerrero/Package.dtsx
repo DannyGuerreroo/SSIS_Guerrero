@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="11/24/2023 9:02:16 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="REALOBAMA"
+  DTS:CreatorName="REALOBAMA\Gamer"
+  DTS:DTSID="{13889870-02B1-47CD-9D56-1BD2DCA80EAD}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5314.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{AC1F18F6-4E79-43FA-A007-ACFD379F43BD}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
